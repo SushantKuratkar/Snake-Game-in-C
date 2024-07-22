@@ -8,6 +8,6 @@ Generates random positions for food and handles snake movement and growth.
 
 FOR MOVEMENT OF SNAKE:
 'a' or 'A': Move the snake left. 
-'d' or 'D': Move the snake right.
+'d' or 'D': Move the snake right. 
 'w' or 'W': Move the snake up.
 's' or 'S': Move the snake down.
