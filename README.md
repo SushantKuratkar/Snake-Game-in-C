@@ -10,4 +10,4 @@ FOR MOVEMENT OF SNAKE:
 'a' or 'A': Move the snake left. 
 'd' or 'D': Move the snake right. 
 'w' or 'W': Move the snake up.
-'s' or 'S': Move the snake down.
+'s' or 'S': Move the snake down. 
